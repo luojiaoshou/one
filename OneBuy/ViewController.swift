@@ -13,7 +13,9 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
 //        
-//        
+//        nihaoajdsdhshdsdhndjksj
+        
+        view.backgroundColor = UIColor.white
         // Do any additional setup after loading the view, typically from a nib.
     }
 
